@@ -19,4 +19,5 @@ Windows分区在盘符下面，而linux分区挂在文件下面。
    * mkdir usb
 3. 挂载命令
    * mount /dev/sdb1 /mnt/usb
-   
+4. 卸载命令
+   * umount /mnt/usb
