@@ -25,10 +25,10 @@ int main()
 ### 以vim为编辑器，gcc为编译器为例
 
 > 1. vim hello.c
-> 2. gcc -E hello.c -o hello.i
-> 3. gcc -S hello.i -o hello.s
-> 4. gcc -c hello.s -o hello.o
-> 5. gcc    hello.o -o hello
+> 2. gcc -E hello.c -o hello.i  //处理文件包含，宏和注释
+> 3. gcc -S hello.i -o hello.s  //编译为汇编文件
+> 4. gcc -c hello.s -o hello.o  //经汇编后为二进制的机器指令
+> 5. gcc    hello.o -o hello    //链接所有用的库，生成可执行文件
   
   
   
