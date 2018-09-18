@@ -11,4 +11,12 @@
 
 Windows分区在盘符下面，而linux分区挂在文件下面。
 
+### U盘的使用
+1. 查看U盘是否接入
+   * fdisk -l  
+2. 建立挂载节点
+   * cd /mnt
+   * mkdir usb
+   * 
+
 
