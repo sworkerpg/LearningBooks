@@ -23,4 +23,4 @@ Windows分区在盘符下面，而linux分区挂在文件下面。
    * umount /mnt/usb
    
 ## 命令
->* / 跟目录
+>* / 根目录
