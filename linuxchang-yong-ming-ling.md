@@ -17,6 +17,6 @@ Windows分区在盘符下面，而linux分区挂在文件下面。
 2. 建立挂载节点
    * cd /mnt        
    * mkdir usb
-   * 
-
-
+3. 挂载命令
+   * mount /dev/sdb1 /mnt/usb
+   
