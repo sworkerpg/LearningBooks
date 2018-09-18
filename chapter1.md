@@ -24,3 +24,36 @@ int main()
 
 ### 以vim为编辑器，gcc为编译器为例
 
+> 1. vim hello.c
+> 2. gcc -E hello.c -o hello.i
+> 3. gcc -S hello.i -o hello.s
+> 4. gcc -c hello.s -o hello.o
+> 5. gcc    hello.o -o hello
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
