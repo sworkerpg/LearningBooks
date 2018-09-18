@@ -25,15 +25,15 @@ Windows分区在盘符下面，而linux分区挂在文件下面。
 
 ## 命令
 
-> * / 根目录
-> * clear\(Ctl + l\) 刷屏
-> * ls -a 显示所有文件（包括隐藏文件）
-> * rm -rf \*  r：递归删除 f：强制删除  （慎用）
-> * mkdir myDir 创建名为myDir的目录
-> * touch myTxt 创建名为myTxt的文件
-> * mv 移动拷贝，重命名
-> * cp 直接拷贝，可做备份
-> * cat 查看文件内容
+> * /                       根目录
+> * clear\(Ctl + l\)   刷屏
+> * ls -a                 显示所有文件（包括隐藏文件）
+> * rm -rf \*  r：     递归删除 f：强制删除  （慎用）
+> * mkdir myDir    创建名为myDir的目录
+> * touch myTxt   创建名为myTxt的文件
+> * mv                    移动拷贝，重命名
+> * cp                     直接拷贝，可做备份
+> * cat                    查看文件内容
 
 
 
